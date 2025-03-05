@@ -1,0 +1,41 @@
+# Ignore auxiliary LaTeX files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lol
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.synctex.gz*
+*.toc
+*.vrb
+*.xdv
+
+# Ignore PDFs and temporary compiled output
+*.pdf
+*.dvi
+*.ps
+
+# Ignore LaTeX Workshop's temporary folder (VS Code)
+.latexmkrc
+.texpadtmp/
+.vscode/ 
+
+scans/
+files/
+documents.
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
